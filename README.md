@@ -1,6 +1,6 @@
-# NextJS Smartcontract Lottery (Raffle)
+# Lottery (Raffle) Full-stack/Front end section using NextJS
 
-Build a verifiably decentralised lottery, using chainlink random number and automatically sending the money to the winner. Smart contract section.
+Build a verifiably decentralised lottery, using chainlink random number and automatically sending the money to the winner. Full stack/Front End section.
 
 Built through Patrick Collins' Blockchain, Solidity, and Full Stack Web3 Development with JavaScript Course.
 
