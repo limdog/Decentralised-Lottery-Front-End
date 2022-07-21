@@ -1,4 +1,4 @@
-# Lottery (Raffle) Full-stack/Front end section using NextJS
+# Lottery (Raffle) Full-stack/Front end using NextJS
 
 Build a verifiably decentralised lottery, using chainlink random number and automatically sending the money to the winner. Full stack/Front End section.
 
