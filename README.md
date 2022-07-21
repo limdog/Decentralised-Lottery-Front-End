@@ -7,7 +7,9 @@ Built through Patrick Collins' Blockchain, Solidity, and Full Stack Web3 Develop
 [Example App here](https://fancy-dream-3458.on.fleek.co/)
 [Example App on IPFS here](ipfs://Qme4KacFx21y6pYuTC6veAU2usryXB3fNWqLkX3a2hMvDe)
 
-Built using:
+Built using:git remote add origin https://github.com/limdog/Decentralised-Lottery-Full-Stack-Front-End-NextJS-.git
+git branch -M  "main"
+git push -u origin "main"
 NextJS
 Solidity
 Chainlink
